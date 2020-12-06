@@ -7,3 +7,15 @@
 3. [Run test](#Run-test)
 4. [Go to Real Cool Heading section](#real-cool-heading)
 
+#Requirments
+For testing this projects you need next things to setup.
+
+1. Visual Studio Community 2019
+2. Selenium webdriver
+3. Selenium Chrome webdriver
+4. Selenium Firefox webdriver
+5. Seelenium Explorer webdriver
+
+#Installation 
+## Set up enviroment
+1. Download Visual Studio Community 2019 [https://code.visualstudio.com/download]
