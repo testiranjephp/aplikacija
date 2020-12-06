@@ -4,6 +4,8 @@
 ## Content
 1. [Requirements](#Requirments)
 2. [Installation guide](#Installation)
+   - [Set up enviroment](#Set-up-enviroment)
+   - [Install packages](#Install-packages)
 3. [Run test](#Run-test)
 4. [Go to Real Cool Heading section](#real-cool-heading)
 
