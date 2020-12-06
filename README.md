@@ -7,7 +7,7 @@
 3. [Run test](#Run-test)
 4. [Go to Real Cool Heading section](#real-cool-heading)
 
-#Requirments
+#Requirements
 For testing this projects you need next things to setup.
 
 1. Visual Studio Community 2019
