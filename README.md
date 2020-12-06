@@ -21,3 +21,4 @@ For testing this projects you need next things to setup.
 #Installation 
 ## Set up enviroment
 1. Download Visual Studio Community 2019 [https://code.visualstudio.com/download]
+2. Install Visual studio with Installer
