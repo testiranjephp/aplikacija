@@ -7,7 +7,6 @@
    - [Set up enviroment](#Set-up-enviroment)
    - [Install packages](#Install-packages)
 3. [Run test](#Run-test)
-4. [Go to Real Cool Heading section](#real-cool-heading)
 
 # Requirements
 For testing this projects you need next things to setup.
