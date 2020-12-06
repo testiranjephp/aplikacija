@@ -30,3 +30,5 @@ For testing this projects you need next things to setup.
 
 # Runing tests
 1. Clone repository with projects
+`git clone https://[YourProfileName]@bitbucket.org/klika/uptime-tests.git`
+
