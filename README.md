@@ -27,7 +27,7 @@ For testing this projects you need next things to setup.
 3. Selenium Firefox WebDriver
 4. Selenium Explorer WebDriver
 
-# Runing tests
+# Run tests
 1. Clone repository with projects
 `git clone https://[YourProfileName]@bitbucket.org/klika/uptime-tests.git`
 2. Open project for testing in Visual Studio 2019 Community
