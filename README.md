@@ -22,3 +22,11 @@ For testing this projects you need next things to setup.
 ## Set up enviroment
 1. Download Visual Studio Community 2019 [https://code.visualstudio.com/download]
 2. Install Visual studio with Installer
+## Install packages
+1. Selenium WebDriver
+2. Selenium Chrome WebDriver
+3. Selenium Firefox WebDriver
+4. Selenium Explorer WebDriver
+
+# Runing tests
+1. Clone repository with projects
