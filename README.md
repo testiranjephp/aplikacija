@@ -2,7 +2,7 @@
 
 
 ## Content
-1. [Requirements](#Requirments)
+1. [Requirements](#Requirements)
 2. [Installation guide](#Installation)
    - [Set up enviroment](#Set-up-enviroment)
    - [Install packages](#Install-packages)
