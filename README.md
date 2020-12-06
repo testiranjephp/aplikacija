@@ -7,6 +7,7 @@ This file contains instruction for setup enviroment and all others neccessary pa
    - [Set up enviroment](#Set-up-enviroment)
    - [Install packages](#Install-packages)
 3. [Run tests](#Run-tests)
+4. [Support projects](#Support-projects)
 
 # Requirements
 For testing this projects you need next things to setup.
@@ -34,3 +35,6 @@ For testing this projects you need next things to setup.
 3. Click on Test toolbar
 4. Click on Run all test
 
+# Support projects
+If you have some suggestion for changes and improvments of this code, you can help me to make it better ! 
+Happy coding
