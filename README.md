@@ -13,9 +13,9 @@ For testing this projects you need next things to setup.
 
 1. Visual Studio Community 2019
 2. Selenium webdriver
-3. Selenium Chrome webdriver
-4. Selenium Firefox webdriver
-5. Seelenium Explorer webdriver
+3. Selenium Chrome WebDriver
+4. Selenium Firefox WebDriver
+5. Seelenium Explorer WebDriver
 
 # Installation 
 ## Set up enviroment
