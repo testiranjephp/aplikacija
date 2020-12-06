@@ -6,7 +6,7 @@
 2. [Installation guide](#Installation)
    - [Set up enviroment](#Set-up-enviroment)
    - [Install packages](#Install-packages)
-3. [Run test](#Run-test)
+3. [Run tests](#Run-tests)
 
 # Requirements
 For testing this projects you need next things to setup.
